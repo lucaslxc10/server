@@ -925,10 +925,10 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA05YQAAAZLxGJ4OAAA
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/73c70803-098e-4fab-bb30-4fcafb2a773a
-sI7N2Mc7W6qGvzNz
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/73c70803-098e-4fab-bb30-4fcafb2a773a
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+4fab-bb30-4fcafb2a773a
 [2J8[0mplayit (v0.15.26): 1730621486239 tunnel running, 0 tunnels registered
 
 login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA05YQAAAZLxFByxAAAAAQAAAAEAAAAAAAAAANZls4bIanonLt7rJZuNDBUPaCVrsI7N2Mc7W6qGvzNz
@@ -1217,3 +1217,6 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA05YQAAAZLxGJyjAAA
 
 TUNNELS
 Add tunnels here: https://playit.gg/account/agents/73c70803-098e-4fab-bb30-4fcafb2a773a
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
